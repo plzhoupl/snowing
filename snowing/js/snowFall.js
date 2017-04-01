@@ -1,10 +1,6 @@
 /*!
  * snowFall Jquery plugin
- * Date: 2016-02-02 15:04
- * fall snow effect based on jquery and three.js
- * author 此生唯晴 http://weibo.com/cishengweiqing/
  * This is licensed under the GNU LGPL, version 2.1 or later.
- * For details, see: http://creativecommons.org/licenses/LGPL/2.1/
  */
 
 var SCREEN_WIDTH = window.innerWidth;
